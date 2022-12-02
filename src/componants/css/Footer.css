@@ -1,0 +1,46 @@
+/*footer*/
+
+
+.mf {
+    margin: 0;
+    padding: 0;
+    background: #020306f0;
+    font-family: Montserrat, sans-serif;
+}
+
+.fimg {
+    height: 250px;
+    width: 250px;
+    margin-top: 40px;
+}
+
+.contect {
+    font-family: prague;
+    font-size: 41px;
+    color: #ffad00;
+    line-height: 50px;
+    letter-spacing: 3px;
+    word-spacing: 2px;
+}
+
+.us {
+    color: white;
+}
+
+.pra {
+    color: white;
+    font-size: 15px;
+    line-height: 23px;
+}
+
+.icons {
+    font-size: 2em;
+
+}
+
+.endfooter {
+    margin: 0;
+    padding: 0;
+    background: #000;
+    font-family: Montserrat, sans-serif;
+}

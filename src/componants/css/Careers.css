@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-image: url(https://www.firstfiddle.in/assets/images/banner-about.jpg);
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+    height: 600px;
+}
+.img-title{
+    position: absolute;
+    
+    top: 45%;
+    text-align: center;
+    color: white;
+    left: 0;
+    right: 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.careers{
+    padding: 2% 85px;
+}
+.paraGraph{
+    font-size: 16px;
+    line-height: 20px;
+}

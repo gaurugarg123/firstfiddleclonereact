@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    background-image: url(https://www.firstfiddle.in/assets/images/contact-new.jpg);
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+    height: 620px;
+}
+.img-title{
+    position: absolute;
+    
+    top: 45%;
+    text-align: center;
+    color: white;
+    left: 0;
+    right: 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.contact{
+    padding-right: 70px;
+    padding-left: 70px;
+}
+.contact-us{
+    padding: 3%;
+}

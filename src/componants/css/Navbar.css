@@ -1,0 +1,40 @@
+
+
+/*navbar css*/
+.navbar {
+    background-color: #0000009e;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.mob-logo {
+    display: none;
+}
+
+/*navbar css end*/
+/*media  navbar start*/
+@media(max-width: 600px) {
+    .mob-logo {
+        display: block;
+    }
+
+    .pcimage {
+        display: none;
+    }
+
+    .navbar {
+        background-color: #0000009e;
+    }
+
+}
+
+/*media  navbar end*/

@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box2222{
+    background-image: url(https://www.firstfiddle.in/assets/images/franchise-with-us.jpg);
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+    height: 600px;
+}
+.img-title{
+    position: absolute;
+    
+    top: 45%;
+    text-align: center;
+    color: white;
+    left: 0;
+    right: 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.prink{
+    padding-left: 0% !important;
+    padding-right: 0%;
+}
+.para{
+        font-size: 16px;
+        font-family: emoji;
+        text-align: justify;
+        letter-spacing: 2px;
+        word-spacing: 2px;
+}
+.icons{
+    font-size: 2em;
+}
+.box1{
+    text-align: center;
+    color: #fff;
+    position: relative;
+}
+.imgcontent{
+    color: white;
+}
+.images{
+    width: 350px;
+}

@@ -1,0 +1,133 @@
+
+/*container css start*/
+
+.box1 {
+    /* background-image: url(https://www.firstfiddle.in/assets/images/home%20page%20banner/bougie.jpg); */
+    background-image: url(/public/image/lotd.jpeg);
+    position: relative;
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+    height: 550px;
+}
+
+.img-title {
+    position: absolute;
+
+    top: 45%;
+    text-align: center;
+    color: white;
+    left: 0;
+    right: 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.mbottom{
+    margin-bottom: 5px;
+}
+
+.a {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-family: prague;
+    margin-top: 20px;
+}
+
+@media(max-width: 600px) {
+    .img1 {
+        width: 100%;
+        margin-top: -50px;
+
+
+    }
+
+    .bannercontent {
+        color: blueviolet;
+    }
+
+    .backimg {
+        height: 625px;
+    }
+
+}
+/* mediaend */
+
+.bannercontent {
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-transform: capitalize;
+    text-align: justify;
+    line-height: 35px;
+}
+
+.mtop {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.bimg {
+    background-image: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+    width: 100%;
+    background-size: cover;
+    height: 550px !important;
+}
+
+.mt-12 {
+    margin-top: 63px;
+    font-family: prague;
+    color: #fff;
+    font-size: 30px !important;
+}
+
+.mt-12-p {
+    color: white;
+    line-height: 40px;
+    letter-spacing: 1px;
+}
+
+.EXPLORE {
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 33px;
+    font-family: emoji;
+}
+
+.our {
+    color: #fbaa1a;
+}
+
+/* .box {
+    width: 229px;
+    height: 158px;
+    float: left;
+    border: 2px solid green;
+    margin-left: 54px;
+} */
+
+
+.backimg {
+    background-image: url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+    width: 100%;
+    height: 600px !important;
+    background-size: cover;
+    /*background-position: center;*/
+}
+
+.mt {
+    color: white;
+    font-family: prague;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 40px;
+    margin-top: 39px;
+}
+
+.mt1 {
+    color: white;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    line-height: 35px;
+    font-family: inherit;
+    font-size: 19px;
+    text-align: justify;
+}
